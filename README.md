@@ -52,7 +52,7 @@
 - How do you think of Vue? Do you think it is suitable to construct large-scale and complex web applications?
 
 # Test
-- Let's say, in order to enhance the robustness and maintainability of a existing system, we want to add a complete testing mechanism from the scratch, how do you plan to do that?
+- Let's say, in order to enhance the robustness and maintainability of an existing system, we want to add a complete testing mechanism from the scratch, how do you plan to do that?
 
 # Build
 - Could you share best practices on how to use grunt, gulp or webpack?
