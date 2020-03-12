@@ -18,10 +18,9 @@
 
 ## Object
  - Could you list all the solutions about how to clone objects?
- 
  - How do you think of jQuery? Do you believe jquery is now out of date?
  
-# Component
+## Component
 - Generally, 
 
 
@@ -31,8 +30,8 @@
 
 ## Frameworks
 
-- Angular, React, Vue are the most popular MVVM frameworks. Which is your favorite ? Why ?
-
+- Angular, React, Vue are the most popular MVVM frameworks. Which is your favorite? Why?
+- How do you think of Vue? Do you think it is suitable to construct large-scale and complex web applications?
 
 
 # Test
