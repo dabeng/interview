@@ -17,7 +17,7 @@
 # CSS
 
 - Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ?
-- Assume that we need to introduce responsibe design into an existing web application, How do you plan to do that？
+- Assume that we need to introduce responsive design into an existing web application, How do you plan to do that？
 
 # JS
 
