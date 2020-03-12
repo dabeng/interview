@@ -10,6 +10,8 @@
 
 - What are you favorite html5 feautures? Could you share some contextual examples illustrating how to use these features in your practical projects?
 
+- What is your understanding of Semantic HTML. What benefits it can provide?
+
 # CSS
 
 - Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ? 
