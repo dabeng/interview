@@ -58,4 +58,4 @@
 - Could you share best practices on how to use grunt, gulp or webpack?
 
 # Comprehensive
-- Let's we got a very long form, there are more than 100 interactive elements within this form, text box, raido, checkbox, combobox, autocomplete, cascading menus, table with inline-edit. If we need to refactor this form, could you offer some suggestions on how to improve this form from the aspects of maintainability, user experience, performance, security.
+- Let's say we got a very long form, there are more than 100 interactive elements within this form, text box, raido, checkbox, combobox, autocomplete, cascading menus, table with inline-edit. If we need to refactor this form, could you offer some suggestions on how to improve this form from the aspects of maintainability, user experience, performance, security.
