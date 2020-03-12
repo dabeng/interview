@@ -29,7 +29,7 @@
  - How do you think of jQuery? Do you believe jquery is now out of date?
  
 ## ES6
-- Which are your favorite syntax of ES6 & ES7? Could you give some examples demonstraing the power of these new syntax? 
+- Which are your favorite syntax of ES6 & ES7? Could you give some examples demonstrating the power of these new syntax? 
  
 ## Component
 
@@ -38,7 +38,7 @@
 
 ## UI Libaray
 
-- Generally, mainstream UI libararies includes mutltiple versiions. For exmaple, bootstrap 3 is built on jQuery. Bootstrap 4 is built on ES5. There are also other derived versions, bootstrap-webcomponents, bootstrap-angular, bootstrap-react, bootstrap-vue. If you are assigned to create a comprehensive and powerful UI library, what are your main steps or processes?
+- Generally, mainstream UI libararies includes mutltiple versiions. For exmaple, bootstrap 3 is built on jQuery. Bootstrap 4 is built on ES6. There are also other derived versions, bootstrap-webcomponents, bootstrap-angular, bootstrap-react, bootstrap-vue. If you are assigned to create a comprehensive and powerful UI library, what are your main steps or processes?
 
 - What is the best UI library you ever used? Can you share some best practices or classic use cases?
 
