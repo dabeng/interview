@@ -2,7 +2,7 @@
 
 # open source
 
-- Do you have some long-term maintenance repos on github or you interested in ? You can share realization idea, killer features, accumulated experience about how to promote repo and so on.
+- Do you have some long-term maintenance repos on github or you interested in ? Can you share core principles, killer features, accumulated experience about how to promote repo and so on.
 
 # HTML
 
@@ -14,9 +14,13 @@
 
 # CSS
 
-- Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ? 
+- Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ?
+- Assume that we need to introduce responsibe design into an existing web application, How do you plan to do that？
 
 # JS
+
+## basics
+- How to deal with nested callbacks and avoid “callback hell”?
 
 ## Object
  - Could you list all the solutions about how to clone objects?
