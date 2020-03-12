@@ -28,8 +28,8 @@
  - Could you list all the solutions about how to clone objects?
  - How do you think of jQuery? Do you believe jquery is now out of date?
  
-## ES5
-- Which are your favorite syntax of ES5 & ES6? Could you give some examples demonstraing the power of these new syntax? 
+## ES6
+- Which are your favorite syntax of ES6 & ES7? Could you give some examples demonstraing the power of these new syntax? 
  
 ## Component
 
