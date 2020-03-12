@@ -2,7 +2,7 @@
 
 # open source
 
-- Do you have some long-term maintenance repos on github or you interested in ? Can you share core principles, killer features, accumulated experience about how to promote repo and so on.
+- Do you have some long-term maintenance repos on github or any repos you interested in ? You can share core principles, killer features, accumulated experience about how to promote repo and so on.
 
 # HTML
 
