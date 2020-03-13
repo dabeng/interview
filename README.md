@@ -4,9 +4,6 @@
 - Do you like to share your frontend skills or solutions on stackoverflow. Could you share your persnoal experience on how to answer the questions efficently on stackoverflow? 
 - Do you like to publish technical articles on Medium, freeCodeCamp, CSS Tricks or any other popular frontend forums? How to wirte a popular frontend skill article? 
 
-# Browser
-- What happens when you type an URL in the browser and press enter
-
 # HTML
 
 - What are you favorite html5 feautures? Could you share some contextual examples illustrating how to use these features in your practical projects?
