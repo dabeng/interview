@@ -40,6 +40,7 @@
 
 - What is your understanding of web Components? Do you think it's a main trend to develop resuable components with webcomponets?
 - Imgine that we want to create a table components. Please list all you considerations.
+- How to implement a rich text editor?
 
 ## UI Libaray
 
