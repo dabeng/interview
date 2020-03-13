@@ -18,6 +18,8 @@
 - Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ?
 - Assume that we need to introduce responsive design into an existing web application, How do you plan to do that？
 - offsetWidth, clientWidth and scrollWidth - what's the difference?
+- Please list all the ways to draw a circle on the page.
+- Please list all the solutions to move a div(inline-block) from the left side of the browser window to the right side?
 
 # JS
 
