@@ -1,10 +1,13 @@
-# interview
-
 # open source
 
 - Do you have some long-term maintenance repos on github or any repos you interested in ? You can share core principles, killer features, or accumulated experience on how to maintain and promote repos.
 - Do you like to share your frontend skills or solutions on stackoverflow. Could you share your persnoal experience on how to answer the questions efficently on stackoverflow? 
 - Do you like to publish technical articles on Medium, freeCodeCamp, CSS Tricks or any other popular frontend forums? How to wirte a popular frontend skill article? 
+
+# Browser
+- What happens when you type an URL in the browser and press enter
+
+# HTTP
 
 # HTML
 
