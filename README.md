@@ -7,8 +7,6 @@
 # Browser
 - What happens when you type an URL in the browser and press enter
 
-# HTTP
-
 # HTML
 
 - What are you favorite html5 feautures? Could you share some contextual examples illustrating how to use these features in your practical projects?
