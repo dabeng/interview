@@ -11,8 +11,6 @@
 
 # HTML
 
-## HMLT5
-
 - What are you favorite html5 feautures? Could you share some contextual examples illustrating how to use these features in your practical projects?
 
 - What is your understanding of Semantic HTML. What benefits can it provide?
