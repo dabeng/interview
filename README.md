@@ -21,11 +21,14 @@
 
 - Colud you share your experience about when to use css grid layout and when to use flexbox layout in practical projects ?
 - Assume that we need to introduce responsive design into an existing web application, How do you plan to do that？
+- offsetWidth, clientWidth and scrollWidth - what's the difference?
 
 # JS
 
 ## basics
+- Could you list all the ways to remove one item from an array?
 - How to deal with nested callbacks and avoid “callback hell”?
+- How to use apply(), call() and bind()?
 
 ## Object
  - Could you list all the solutions about how to clone objects?
@@ -33,6 +36,7 @@
  
 ## ES6
 - Which are your favorite syntax of ES6 & ES7? Could you give some examples demonstrating the power of these new syntax? 
+- Var, let and const- what's the difference?
  
 ## Component
 
